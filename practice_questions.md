@@ -14,3 +14,6 @@ def factorial_rec(n):
 
 print(factorial_iter(5))  # 120
 ```
+
+
+<!-- updated examples -->
