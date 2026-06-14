@@ -13,3 +13,17 @@ Jules works asynchronously on GitHub issues and PRs.
 2. Jules analyzes the codebase
 3. Creates a PR with the fix
 4. You review and merge
+
+## Fibonacci — Recursive with Memoization
+
+```python
+from functools import lru_cache
+
+@lru_cache(maxsize=None)
+def fib(n):
+    if n < 2:
+        return n
+    return fib(n - 1) + fib(n - 2)
+```
+
+Without memoization, the recursive version is O(2^n). With `lru_cache` it becomes O(n).
