@@ -44,3 +44,6 @@ A Virtual LAN segments a physical network into logical groups.
 - **Native VLAN** — untagged trunk traffic
 
 VLAN tagging uses IEEE 802.1Q standard.
+
+
+<!-- snippet correction -->
