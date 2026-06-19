@@ -27,3 +27,20 @@ def fib(n):
 ```
 
 Without memoization, the recursive version is O(2^n). With `lru_cache` it becomes O(n).
+
+## VLAN Basics
+
+A Virtual LAN segments a physical network into logical groups.
+
+### Why VLANs?
+- Reduce broadcast domains
+- Improve security (isolate departments)
+- Simplify network management
+
+### Types
+- **Data VLAN** — regular user traffic
+- **Voice VLAN** — VoIP traffic priority
+- **Management VLAN** — switch management
+- **Native VLAN** — untagged trunk traffic
+
+VLAN tagging uses IEEE 802.1Q standard.
