@@ -80,3 +80,6 @@ print(flat)  # [1, 2, 3, 4, 5, 6]
 char_pos = {ch: i for i, ch in enumerate('abcde')}
 print(char_pos)
 ```
+
+
+<!-- snippet correction -->
