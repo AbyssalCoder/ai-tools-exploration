@@ -49,3 +49,9 @@ jobs:
 ```
 
 Workflows live in `.github/workflows/` and trigger on events.
+
+## 2026-07-01
+
+Revisited Docker Networking and took better notes.
+
+Going to revisit this topic next week for deeper understanding.
