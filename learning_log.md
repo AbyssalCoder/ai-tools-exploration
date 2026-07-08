@@ -55,3 +55,18 @@ Workflows live in `.github/workflows/` and trigger on events.
 Revisited Docker Networking and took better notes.
 
 Going to revisit this topic next week for deeper understanding.
+
+## Git Basics
+
+```bash
+git init                        # Initialize repo
+git add .                       # Stage all changes
+git commit -m 'Initial commit'  # Commit
+git status                      # Check status
+git log --oneline               # Compact log
+git diff                        # Show unstaged changes
+git diff --staged               # Show staged changes
+```
+
+### Three areas
+Working Directory → Staging Area → Repository
