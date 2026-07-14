@@ -8,3 +8,11 @@ Topics covered today:
 - Binary Search Basics
 - VLAN Basics
 - JWT Authentication
+
+
+## Update — 2026-07-14
+
+Topics covered today:
+- Git Branching
+- Linux Commands
+- Exception Handling
