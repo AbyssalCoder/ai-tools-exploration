@@ -76,3 +76,6 @@ Working Directory → Staging Area → Repository
 Explored V0 — here are my notes.
 
 Connecting this to what I learned last week about related concepts.
+
+
+<!-- snippet correction -->
