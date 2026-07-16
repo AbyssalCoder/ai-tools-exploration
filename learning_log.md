@@ -71,4 +71,8 @@ git diff --staged               # Show staged changes
 ### Three areas
 Working Directory → Staging Area → Repository
 
+## 2026-07-16
 
+Explored V0 — here are my notes.
+
+Connecting this to what I learned last week about related concepts.
