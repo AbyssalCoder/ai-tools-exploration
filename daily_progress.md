@@ -38,3 +38,9 @@ Runs in O(n/2) comparisons with O(1) extra space.
 
 
 <!-- indent fix -->
+
+## 2026-07-18
+
+Went through Pattern Printing concepts and examples.
+
+Connecting this to what I learned last week about related concepts.
