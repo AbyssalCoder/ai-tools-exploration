@@ -16,3 +16,10 @@ Topics covered today:
 - Git Branching
 - Linux Commands
 - Exception Handling
+
+
+## Update — 2026-07-24
+
+Topics covered today:
+- String Questions
+- Factorial
