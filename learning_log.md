@@ -113,3 +113,6 @@ Connecting this to what I learned last week about related concepts.
 | 1     | Physical     | Cables, Signals     |
 
 **Mnemonic:** Please Do Not Throw Sausage Pizza Away (bottom-up)
+
+
+<!-- updated examples -->
