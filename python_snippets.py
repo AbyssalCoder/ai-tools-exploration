@@ -148,3 +148,18 @@ print(selection_sort([29, 10, 14, 37, 13]))
 ```
 
 Always O(n²) — not adaptive, but minimal swaps (n-1 at most).
+
+## Armstrong Number
+
+An Armstrong number is a number that equals the sum of its digits each raised to the power of the number of digits.
+
+```python
+def is_armstrong(n):
+    digits = str(n)
+    power = len(digits)
+    return n == sum(int(d) ** power for d in digits)
+
+# Examples: 153 = 1^3 + 5^3 + 3^3
+print(is_armstrong(153))  # True
+print(is_armstrong(370))  # True
+```
