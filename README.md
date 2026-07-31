@@ -23,3 +23,10 @@ Topics covered today:
 Topics covered today:
 - String Questions
 - Factorial
+
+
+## Update — 2026-07-31
+
+Topics covered today:
+- Prime Number
+- Docker Containers
