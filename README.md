@@ -30,3 +30,11 @@ Topics covered today:
 Topics covered today:
 - Prime Number
 - Docker Containers
+
+
+## Update — 2026-08-02
+
+Topics covered today:
+- Palindrome
+- Linux Commands
+- Docker Volumes
