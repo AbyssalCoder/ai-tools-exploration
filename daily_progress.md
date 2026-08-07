@@ -61,3 +61,9 @@ def count_vc(s):
 
 print(count_vc('Hello World'))  # (3, 7)
 ```
+
+## 2026-08-07
+
+Revisited CI/CD Basics and took better notes.
+
+Found a good resource that explained this clearly.
