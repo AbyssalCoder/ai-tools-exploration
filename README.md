@@ -38,3 +38,10 @@ Topics covered today:
 - Palindrome
 - Linux Commands
 - Docker Volumes
+
+
+## Update — 2026-08-10
+
+Topics covered today:
+- Linear Search
+- HTTP
