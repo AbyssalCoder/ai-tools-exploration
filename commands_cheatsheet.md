@@ -72,3 +72,6 @@ sudo systemctl reload nginx  # Reload
 
 
 <!-- indent fix -->
+
+
+<!-- updated examples -->
