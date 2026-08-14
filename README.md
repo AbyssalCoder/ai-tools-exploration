@@ -45,3 +45,12 @@ Topics covered today:
 Topics covered today:
 - Linear Search
 - HTTP
+
+
+## Update — 2026-08-14
+
+Topics covered today:
+- Docker Images
+- Bubble Sort
+- HTTPS
+- Docker Containers
