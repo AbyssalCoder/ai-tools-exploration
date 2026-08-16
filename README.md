@@ -54,3 +54,12 @@ Topics covered today:
 - Bubble Sort
 - HTTPS
 - Docker Containers
+
+
+## Update — 2026-08-16
+
+Topics covered today:
+- Nested Loops
+- Git Branching
+- Docker Containers
+- Docker Images
