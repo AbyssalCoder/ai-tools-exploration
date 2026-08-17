@@ -63,3 +63,10 @@ Topics covered today:
 - Git Branching
 - Docker Containers
 - Docker Images
+
+
+## Update — 2026-08-17
+
+Topics covered today:
+- Reverse Number
+- Docker Volumes
