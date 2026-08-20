@@ -70,3 +70,11 @@ Topics covered today:
 Topics covered today:
 - Reverse Number
 - Docker Volumes
+
+
+## Update — 2026-08-20
+
+Topics covered today:
+- Dictionary Practice
+- Factorial
+- TCP Handshake
