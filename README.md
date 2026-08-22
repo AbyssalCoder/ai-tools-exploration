@@ -78,3 +78,12 @@ Topics covered today:
 - Dictionary Practice
 - Factorial
 - TCP Handshake
+
+
+## Update — 2026-08-22
+
+Topics covered today:
+- Docker Containers
+- UDP
+- Armstrong Number
+- List Comprehensions
