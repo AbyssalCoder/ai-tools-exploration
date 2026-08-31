@@ -14,3 +14,12 @@
 - Real Python: https://realpython.com/
 - freeCodeCamp: https://www.freecodecamp.org/
 - LeetCode: https://leetcode.com/
+
+## Resources — 2026-08-31
+
+### Useful links for Docker Volumes
+
+- Python docs: https://docs.python.org/3/
+- GeeksforGeeks: https://www.geeksforgeeks.org/
+- LeetCode: https://leetcode.com/
+- freeCodeCamp: https://www.freecodecamp.org/
