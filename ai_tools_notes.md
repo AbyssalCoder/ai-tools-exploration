@@ -30,3 +30,21 @@ docker run -p 3000:3000 ghcr.io/all-hands-ai/openhands
 - Creates full projects from description
 
 It's like giving an AI its own computer to work on tasks.
+
+## OpenCommit — AI Commit Messages
+
+Generates meaningful commit messages from your staged changes.
+
+### Setup
+```bash
+npm install -g opencommit
+oco config set OCO_API_KEY=<key>
+```
+
+### Usage
+```bash
+git add .
+oco  # generates commit message from diff
+```
+
+Follows conventional commit format. Saves time on writing descriptive messages.
