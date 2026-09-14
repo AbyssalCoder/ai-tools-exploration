@@ -15,3 +15,9 @@ This will be useful for the upcoming project.
 Explored JWT Authentication — here are my notes.
 
 The comparison between approaches was really helpful.
+
+## 2026-09-14
+
+Went through Reverse Number concepts and examples.
+
+This will be useful for the upcoming project.
