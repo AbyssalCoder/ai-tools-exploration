@@ -328,3 +328,21 @@ print(count_vc('Hello World'))  # (3, 7)
 
 
 <!-- snippet correction -->
+
+## REST API Principles
+
+1. **Client-Server** separation
+2. **Stateless** — each request carries all needed info
+3. **Uniform Interface** — standard HTTP methods
+4. **Resource-based** — URIs identify resources
+
+### Example endpoints
+```
+GET    /api/users          # List users
+GET    /api/users/42       # Get user 42
+POST   /api/users          # Create user
+PUT    /api/users/42       # Replace user 42
+DELETE /api/users/42       # Delete user 42
+```
+
+Always use nouns for resources, not verbs.
