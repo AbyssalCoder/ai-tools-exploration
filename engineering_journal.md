@@ -21,3 +21,9 @@ The comparison between approaches was really helpful.
 Went through Reverse Number concepts and examples.
 
 This will be useful for the upcoming project.
+
+## 2026-09-22
+
+Deep dive into Docker Compose.
+
+The comparison between approaches was really helpful.
