@@ -27,3 +27,6 @@ This will be useful for the upcoming project.
 Deep dive into Docker Compose.
 
 The comparison between approaches was really helpful.
+
+
+<!-- snippet correction -->
