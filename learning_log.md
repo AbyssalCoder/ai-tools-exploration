@@ -193,3 +193,25 @@ A JSON Web Token has three parts: `header.payload.signature`
 - Use refresh tokens for re-auth
 - Never store JWTs in localStorage (XSS risk)
 - Always validate `exp` and `iss` claims
+
+## Reverse Proxy
+
+Sits in front of backend servers and forwards client requests.
+
+### Benefits
+- SSL termination
+- Load balancing
+- Caching static content
+- Hiding backend topology
+- Rate limiting
+
+### Nginx reverse proxy config
+```nginx
+server {
+    listen 80;
+    location / {
+        proxy_pass http://localhost:3000;
+        proxy_set_header Host $host;
+    }
+}
+```
