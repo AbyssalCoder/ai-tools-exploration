@@ -122,3 +122,9 @@ print(binary_search(sorted_arr, 7))  # 3
 ```
 
 Requires sorted input. Time complexity: O(log n).
+
+## 2026-09-27
+
+Revisited Windsurf and took better notes.
+
+The hands-on practice made the theory click.
