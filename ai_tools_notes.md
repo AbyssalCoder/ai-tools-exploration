@@ -107,3 +107,6 @@ goose session start
 ```
 
 Modular design — add toolkits for GitHub, Jira, etc.
+
+
+<!-- updated examples -->
