@@ -91,3 +91,19 @@ Fork of VS Code with deep AI integration.
 - Use `.cursorrules` to set project conventions
 - Reference files with `@filename` in chat
 - Composer mode for multi-file changes
+
+## Goose — Block's AI Developer Agent
+
+### Features
+- Extensible via toolkits
+- Runs terminal commands
+- Manages files and projects
+- Can browse the web
+
+### Setup
+```bash
+pip install goose-ai
+goose session start
+```
+
+Modular design — add toolkits for GitHub, Jira, etc.
