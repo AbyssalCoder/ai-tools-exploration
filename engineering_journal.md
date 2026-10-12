@@ -30,3 +30,9 @@ The comparison between approaches was really helpful.
 
 
 <!-- snippet correction -->
+
+## 2026-10-12
+
+Deep dive into Exception Handling.
+
+Found a good resource that explained this clearly.
