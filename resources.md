@@ -23,3 +23,12 @@
 - GeeksforGeeks: https://www.geeksforgeeks.org/
 - LeetCode: https://leetcode.com/
 - freeCodeCamp: https://www.freecodecamp.org/
+
+## Resources — 2026-10-14
+
+### Useful links for Caching
+
+- freeCodeCamp: https://www.freecodecamp.org/
+- LeetCode: https://leetcode.com/
+- Real Python: https://realpython.com/
+- GeeksforGeeks: https://www.geeksforgeeks.org/
