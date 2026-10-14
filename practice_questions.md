@@ -87,3 +87,5 @@ print(reverse_number(12345))  # 54321
 ```
 
 This uses modulus and integer division — no string conversion needed.
+
+
