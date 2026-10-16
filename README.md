@@ -87,3 +87,10 @@ Topics covered today:
 - UDP
 - Armstrong Number
 - List Comprehensions
+
+
+## Update — 2026-10-16
+
+Topics covered today:
+- TCP Handshake
+- JWT Authentication
