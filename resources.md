@@ -32,3 +32,12 @@
 - LeetCode: https://leetcode.com/
 - Real Python: https://realpython.com/
 - GeeksforGeeks: https://www.geeksforgeeks.org/
+
+## Resources — 2026-10-19
+
+### Useful links for File Handling
+
+- GeeksforGeeks: https://www.geeksforgeeks.org/
+- Docker docs: https://docs.docker.com/
+- Python docs: https://docs.python.org/3/
+- MDN Web Docs: https://developer.mozilla.org/
