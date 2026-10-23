@@ -36,3 +36,9 @@ The comparison between approaches was really helpful.
 Deep dive into Exception Handling.
 
 Found a good resource that explained this clearly.
+
+## 2026-10-23
+
+Went through OpenCommit concepts and examples.
+
+The comparison between approaches was really helpful.
