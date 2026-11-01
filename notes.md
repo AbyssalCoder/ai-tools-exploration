@@ -528,3 +528,6 @@ DELETE /api/users/42       # Delete user 42
 ```
 
 Always use nouns for resources, not verbs.
+
+
+<!-- formatting -->
