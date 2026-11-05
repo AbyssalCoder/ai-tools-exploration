@@ -326,3 +326,19 @@ DELETE /api/users/42       # Delete user 42
 ```
 
 Always use nouns for resources, not verbs.
+
+## Load Balancers
+
+Distribute incoming traffic across multiple servers.
+
+### Algorithms
+- **Round Robin** — rotate through servers
+- **Least Connections** — send to least busy
+- **IP Hash** — consistent routing by client IP
+- **Weighted** — proportional to server capacity
+
+### Layer 4 vs Layer 7
+- L4: routes based on IP/port (faster)
+- L7: routes based on HTTP content (smarter)
+
+Tools: Nginx, HAProxy, AWS ALB/NLB
