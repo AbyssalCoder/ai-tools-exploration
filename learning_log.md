@@ -342,3 +342,6 @@ Distribute incoming traffic across multiple servers.
 - L7: routes based on HTTP content (smarter)
 
 Tools: Nginx, HAProxy, AWS ALB/NLB
+
+
+<!-- snippet correction -->
