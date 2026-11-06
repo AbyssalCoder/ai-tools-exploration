@@ -44,3 +44,12 @@
 
 
 <!-- indent fix -->
+
+## Resources — 2026-11-06
+
+### Useful links for Prime Number
+
+- Python docs: https://docs.python.org/3/
+- MDN Web Docs: https://developer.mozilla.org/
+- W3Schools: https://www.w3schools.com/
+- Git documentation: https://git-scm.com/doc
