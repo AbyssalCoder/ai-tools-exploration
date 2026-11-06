@@ -96,3 +96,8 @@ Topics covered today:
 - JWT Authentication
 
 
+## Update — 2026-11-06
+
+Topics covered today:
+- Nginx Basics
+- Reverse Proxies
