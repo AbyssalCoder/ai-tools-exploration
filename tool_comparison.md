@@ -77,3 +77,6 @@ Follows conventional commit format. Saves time on writing descriptive messages.
 - Dashboard layouts
 
 Output is clean and production-ready compared to most generators.
+
+
+<!-- updated examples -->
