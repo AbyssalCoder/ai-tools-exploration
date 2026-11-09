@@ -136,3 +136,16 @@ print(reverse_number(12345))  # 54321
 ```
 
 This uses modulus and integer division — no string conversion needed.
+
+## Palindrome Check
+
+```python
+def is_palindrome(s):
+    s = s.lower().replace(' ', '')
+    return s == s[::-1]
+
+print(is_palindrome('racecar'))  # True
+print(is_palindrome('hello'))    # False
+```
+
+Slicing `[::-1]` reverses the string in one step.
