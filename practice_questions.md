@@ -121,3 +121,18 @@ print(linear_search(nums, 5))  # -1
 ```
 
 Time complexity: O(n). Works on unsorted arrays.
+
+## Reverse a Number
+
+```python
+def reverse_number(n):
+    reversed_n = 0
+    while n > 0:
+        reversed_n = reversed_n * 10 + n % 10
+        n //= 10
+    return reversed_n
+
+print(reverse_number(12345))  # 54321
+```
+
+This uses modulus and integer division — no string conversion needed.
