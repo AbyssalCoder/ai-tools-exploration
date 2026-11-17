@@ -187,3 +187,9 @@ print(binary_search(sorted_arr, 7))  # 3
 ```
 
 Requires sorted input. Time complexity: O(log n).
+
+## 2026-11-17
+
+Quick session on OpenCommit today.
+
+The comparison between approaches was really helpful.
