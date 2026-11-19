@@ -60,3 +60,29 @@ docker compose up -d
 docker compose logs -f
 docker compose down
 ```
+
+## Nginx Basics
+
+Nginx is a high-performance web server and reverse proxy.
+
+### Basic config
+```nginx
+server {
+    listen 80;
+    server_name example.com;
+
+    location / {
+        root /var/www/html;
+        index index.html;
+    }
+
+    location /api {
+        proxy_pass http://localhost:3000;
+    }
+}
+```
+
+```bash
+sudo nginx -t           # Test config
+sudo systemctl reload nginx  # Reload
+```
