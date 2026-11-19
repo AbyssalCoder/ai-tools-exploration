@@ -53,3 +53,10 @@
 - MDN Web Docs: https://developer.mozilla.org/
 - W3Schools: https://www.w3schools.com/
 - Git documentation: https://git-scm.com/doc
+
+## Resources — 2026-11-19
+
+### Useful links for Reverse Number
+
+- W3Schools: https://www.w3schools.com/
+- Git documentation: https://git-scm.com/doc
