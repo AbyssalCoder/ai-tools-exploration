@@ -101,3 +101,12 @@ Topics covered today:
 Topics covered today:
 - Nginx Basics
 - Reverse Proxies
+
+
+## Update — 2026-11-25
+
+Topics covered today:
+- DNS Resolution
+- OSI Model
+- Selection Sort
+- Docker Images
