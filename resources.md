@@ -60,3 +60,11 @@
 
 - W3Schools: https://www.w3schools.com/
 - Git documentation: https://git-scm.com/doc
+
+## Resources — 2026-11-27
+
+### Useful links for REST APIs
+
+- W3Schools: https://www.w3schools.com/
+- Git documentation: https://git-scm.com/doc
+- freeCodeCamp: https://www.freecodecamp.org/
