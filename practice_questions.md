@@ -235,3 +235,6 @@ class Cat(Animal):
 for a in [Dog('Rex'), Cat('Whiskers')]:
     print(a.speak())
 ```
+
+
+<!-- fixed typo -->
